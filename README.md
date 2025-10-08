@@ -1,5 +1,5 @@
 # sales-analysis
- "Coffee Sales Analysis Dashboard"
+ "COFFEE SALES ANALYSIS DASHBOARD"
 
  Overview:-
 
